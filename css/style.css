@@ -1,0 +1,23 @@
+#background {
+    width: 100%;
+    height: 100px;
+    background-image: url("../img/pattern.png");
+    background-size:contain;
+    background-repeat: repeat-x;
+    background-color: lightblue;
+   
+}
+#logo {
+    width: 10%;
+}
+
+
+/* .background {
+    background-image: url("img/pattern.png");
+} */
+table {
+    text-align: left;
+}
+.col {
+    width: 50%;
+}
