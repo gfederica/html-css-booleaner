@@ -2,7 +2,6 @@ body {
     font-family: 'Roboto Slab', serif;
 }
 
-
 header {
     height: 80px;
     background-image: url("../img/pattern.png");
@@ -16,6 +15,8 @@ header {
     margin-left: 5px;
  }
 /* note/domande da fare: è giusto spostare così il logo in basso? è giusto ingrandire così l'immagine di sfondo? */
+
+
 h1 {
     width: 60%;
     font-size: 30px;
